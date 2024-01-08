@@ -1,4 +1,9 @@
-https://github.com/c4pt000/KMSpico/releases/download/iso/KMSpico.iso
+
+# windows 11 pro here
+* https://gist.github.com/kimgiftww/6d6242e35ef6e3baa3a6e4fb8f386d0b
+
+# windows 10 here in releases
+* https://github.com/c4pt000/KMSpico/releases/download/iso/KMSpico.iso
 
 KMSpico is the most successful, frequently updated and 100% clean tool to permanently activate any version of Windows or Microsoft office within matter of seconds.
 
